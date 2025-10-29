@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Complemento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54720873-EC43-4887-9624-410A642D44FE}|Complemento\\Complemento.vcxproj|C:\\Users\\USER\\source\\repos\\Complemento\\Complemento\\Complemento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54720873-EC43-4887-9624-410A642D44FE}|Complemento\\Complemento.vcxproj|solutionrelative:Complemento\\Complemento.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complemento.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Complemento\\Complemento\\Complemento.cpp",
+              "RelativeDocumentMoniker": "Complemento\\Complemento.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Complemento\\Complemento\\Complemento.cpp",
+              "RelativeToolTip": "Complemento\\Complemento.cpp",
+              "ViewState": "AgIAABMAAABAxszMzIwjwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T15:43:32.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
